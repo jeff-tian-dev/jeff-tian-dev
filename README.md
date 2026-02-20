@@ -16,12 +16,6 @@ Computer Science student focused on building reliable, well-structured software 
 
 ## 🛠 Selected Projects
 
-### 🔹 Embedded Temperature Monitoring System
-Microcontroller-based temperature sensing system built using Arduino and C.  
-- Designed and handwired sensor circuitry  
-- Implemented ADC sampling logic for real-time data acquisition  
-- Developed serial-based monitoring output for validation and debugging  
-
 ### 🔹 Computer Vision Automation Framework
 Modular automation system integrating OpenCV and OS-level APIs.  
 - Designed a real-time detection and action pipeline  
