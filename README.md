@@ -1,60 +1,62 @@
-# Jeff Tian
+# Hi, I'm Jeff Tian 👋
 
-Computer Science student focused on building reliable, well-structured software systems. I enjoy working across the stack — from low-level systems and embedded projects to data pipelines and interactive dashboards.
+💻 Computer Science student at the University of Toronto Mississauga  
+⚙️ Interested in systems engineering, data platforms, and automation  
+🚀 I enjoy building tools that process real data and run reliably in production
 
----
-
-## 🚀 Interests
-
-- Systems programming (C / C++)
-- Embedded microcontroller development
-- Automation & tooling in Python
-- API-driven backends and data pipelines
-- Clean, responsive frontend interfaces
+I like working across the stack, from backend services and data pipelines to clean frontends that make complex information easy to understand. Most of my projects focus on practical systems that automate workflows and analyze real world data.
 
 ---
 
-## 🛠 Selected Projects
+## 🚧 What I'm working on
 
-### 🔹 Computer Vision Automation Framework
-Modular automation system integrating OpenCV and OS-level APIs.  
-- Designed a real-time detection and action pipeline  
-- Integrated low-level OS window management APIs  
-- Optimized detection thresholds for stability and reliability  
+### Clash of Clans Analytics Dashboard
 
-### 🔹 Analytics Dashboard
-REST API-driven data pipeline with interactive dashboards.  
-- Built rate-limit-aware request scheduling and retry logic  
-- Processed longitudinal performance data  
-- Developed interactive UI components using React  
+Full stack data platform for tracking clan performance and player statistics.
 
----
+- React + TypeScript frontend for interactive analytics dashboards  
+- FastAPI backend exposing paginated REST endpoints  
+- PostgreSQL database with normalized schema and UPSERT logic  
+- Python ingestion pipeline running hourly on a Linux cloud VM  
+- Tracks historical performance data across 200+ players
 
-## 💻 Technical Stack
+### Computer Vision Automation Framework
 
-**Languages:** C, C++, Python, JavaScript  
-**Frameworks & Tools:** React, Flask, Git  
-**Systems:** Linux (CLI development), REST APIs  
-**Core Concepts:** Data Structures & Algorithms, Embedded Fundamentals, Debugging & Testing  
+- Desktop automation system built with Python, OpenCV, and OS level APIs  
+- Modular pipeline separating detection, decision logic, and action execution  
+- Reduced repetitive workflows by ~60 percent through structured automation  
+- Integrated a locally hosted LLM to improve decision reliability
+
+These projects reflect my interest in **systems engineering, data pipelines, automation, and scalable backend design**.
 
 ---
 
-## 📫 Connect With Me
+## 🛠 Tech I work with
 
-- LinkedIn: linkedin.com/in/jeff-tian
-- Email: jeff.tian23@gmail.com
+**Languages**
 
-<!--
-**jeff-tian-dev/jeff-tian-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+C++ • Java • Python • SQL • C • JavaScript • TypeScript • HTML/CSS
 
-Here are some ideas to get you started:
+**Frameworks & Tools**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+React • Node.js • FastAPI • PostgreSQL • Supabase  
+Linux • Docker • Git • REST APIs • Pandas • NumPy
+
+---
+
+## 🧠 What I enjoy building
+
+- Data platforms and analytics tools  
+- Backend services and APIs  
+- Automation systems and developer tools  
+- Projects that turn raw data into useful insights
+
+I enjoy learning quickly, experimenting with new technologies, and collaborating with people who like solving challenging problems.
+
+---
+
+## 🤝 Connect with me
+
+📧 Email: jeff.tian23@gmail.com  
+💼 LinkedIn: https://linkedin.com/in/jeff-tian  
+💻 GitHub: https://github.com/jeff-tian-dev
