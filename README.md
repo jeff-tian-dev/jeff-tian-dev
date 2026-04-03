@@ -42,11 +42,11 @@ I'm a software engineering student based in Toronto building full-stack web apps
 
 ## What I'm Working On
 
-**[JobRadar](https://github.com/jeffxu/jobradar)** — An end-to-end job search agent that monitors ATS RSS feeds (Greenhouse, Lever, Ashby), scores roles with a local Ollama LLM, and surfaces matches in a React dashboard — zero recurring API cost, runs on a schedule unattended. 90+ pytest tests.
+**[JobRadar](https://github.com/jeff-tian-dev/jobradar)** — An end-to-end job search agent that monitors ATS RSS feeds (Greenhouse, Lever, Ashby), scores roles with a local Ollama LLM, and surfaces matches in a React dashboard — zero recurring API cost, runs on a schedule unattended.
 
-**[ClashTracker](https://github.com/jeffxu/clashtracker)** — Full-stack analytics platform for Clash of Clans clan leadership. FastAPI backend with 9 domain routers, a systemd-scheduled Python ingestion service hitting the CoC API ~144×/day, PostgreSQL via Supabase, and a React 19 + TypeScript SPA deployed via GitHub Actions.
+**[ClashTracker](https://github.com/jeff-tian-dev/clashtracker)** — Full-stack analytics platform for Clash of Clans clan leadership. FastAPI backend with 9 domain routers, a systemd-scheduled Python ingestion service hitting the CoC API ~144×/day, PostgreSQL via Supabase, and a React 19 + TypeScript SPA deployed via GitHub Actions.
 
-**[VisionLoop](https://github.com/jeffxu/visionloop)** — Windows desktop automation engine using OpenCV template matching, Win32 message-based input simulation, and a daemon-threaded control loop — with local LLaMA integration for handling ambiguous vision states. Reduced manual workflows ~60%.
+**[VisionLoop](https://github.com/jeff-tian-dev/visionloop)** — Windows desktop automation engine using OpenCV template matching, Win32 message-based input simulation, and a daemon-threaded control loop — with local LLaMA integration for handling ambiguous vision states.
 
 ---
 
