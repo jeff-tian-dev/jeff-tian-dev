@@ -42,7 +42,7 @@ I'm a software engineering student based in Toronto building full-stack web apps
 
 ## What I'm Working On
 
-**[JobRadar](https://github.com/jeff-tian-dev/jobradar)** — Automated job search pipeline — ATS monitoring, local LLM scoring, resume tailoring, React dashboard. Fully offline, schedule-driven.
+**[JobRadar](https://github.com/jeff-tian-dev/jobradar)** — Automated job search pipeline: ATS monitoring, local LLM scoring, resume tailoring, React dashboard. Fully offline, schedule-driven.
 
 **[ClashTracker](https://github.com/jeff-tian-dev/clashtracker)** — Full-stack Clash of Clans analytics platform for clan leadership. FastAPI + PostgreSQL backend, automated CoC API ingestion, React 19 SPA.
 
