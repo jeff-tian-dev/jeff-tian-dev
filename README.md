@@ -42,17 +42,17 @@ I'm a software engineering student based in Toronto building full-stack web apps
 
 ## What I'm Working On
 
-**[JobRadar](https://github.com/jeff-tian-dev/jobradar)** — An end-to-end job search agent that monitors ATS RSS feeds (Greenhouse, Lever, Ashby), scores roles with a local Ollama LLM, and surfaces matches in a React dashboard — zero recurring API cost, runs on a schedule unattended.
+**[JobRadar](https://github.com/jeff-tian-dev/jobradar)** — Automated job search pipeline — ATS monitoring, local LLM scoring, resume tailoring, React dashboard. Fully offline, schedule-driven.
 
-**[ClashTracker](https://github.com/jeff-tian-dev/clashtracker)** — Full-stack analytics platform for Clash of Clans clan leadership. FastAPI backend with 9 domain routers, a systemd-scheduled Python ingestion service hitting the CoC API ~144×/day, PostgreSQL via Supabase, and a React 19 + TypeScript SPA deployed via GitHub Actions.
+**[ClashTracker](https://github.com/jeff-tian-dev/clashtracker)** — Full-stack Clash of Clans analytics platform for clan leadership. FastAPI + PostgreSQL backend, automated CoC API ingestion, React 19 SPA.
 
-**[VisionLoop](https://github.com/jeff-tian-dev/visionloop)** — Windows desktop automation engine using OpenCV template matching, Win32 message-based input simulation, and a daemon-threaded control loop — with local LLaMA integration for handling ambiguous vision states.
+**[VisionLoop](https://github.com/jeff-tian-dev/visionloop)** — Windows GUI automation via OpenCV template matching and Win32 input simulation, with a local LLM for ambiguous vision state resolution.
 
 ---
 
 ## Recent Build
 
-**ReturnClip** *(Hack Canada 2026)* — A 3-surface return-processing prototype built in under 24 hours: SwiftUI iOS app → Next.js API with Gemini AI condition assessment → React merchant dashboard, with Shopify refund integration. Compressed a 15–30 min return flow down to ~30 seconds.
+**ReturnClip** *(Hack Canada 2026)* — Hackathon return-processing prototype: SwiftUI iOS app, Next.js + Gemini AI condition assessment, and React merchant dashboard with Shopify refund integration. Built in 24 hours, cuts 15–30 min flows to ~30 sec.
 
 ---
 
