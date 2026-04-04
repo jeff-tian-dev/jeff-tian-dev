@@ -4,6 +4,22 @@ I'm a software engineering student based in Toronto building full-stack web apps
 
 ---
 
+## What I'm Working On
+
+**[JobRadar](https://github.com/jeff-tian-dev/jobradar)** — Automated job search pipeline: ATS monitoring, local LLM scoring, resume tailoring, React dashboard. Fully offline, schedule-driven.
+
+**[ClashTracker](https://github.com/jeff-tian-dev/clashtracker)** — Full-stack Clash of Clans analytics platform for clan leadership. FastAPI + PostgreSQL backend, automated CoC API ingestion, React 19 SPA.
+
+**[VisionLoop](https://github.com/jeff-tian-dev/visionloop)** — Windows GUI automation via OpenCV template matching and Win32 input simulation, with a local LLM for ambiguous vision state resolution.
+
+---
+
+## Recent Build
+
+**ReturnClip** *(Hack Canada 2026)* — Hackathon return-processing prototype: SwiftUI iOS app, Next.js + Gemini AI condition assessment, and React merchant dashboard with Shopify refund integration. Built in 24 hours, cuts 15–30 min flows to ~30 sec.
+
+---
+
 ## Tech Stack
 
 **Languages**
@@ -40,23 +56,7 @@ I'm a software engineering student based in Toronto building full-stack web apps
 
 ---
 
-## What I'm Working On
-
-**[JobRadar](https://github.com/jeff-tian-dev/jobradar)** — Automated job search pipeline: ATS monitoring, local LLM scoring, resume tailoring, React dashboard. Fully offline, schedule-driven.
-
-**[ClashTracker](https://github.com/jeff-tian-dev/clashtracker)** — Full-stack Clash of Clans analytics platform for clan leadership. FastAPI + PostgreSQL backend, automated CoC API ingestion, React 19 SPA.
-
-**[VisionLoop](https://github.com/jeff-tian-dev/visionloop)** — Windows GUI automation via OpenCV template matching and Win32 input simulation, with a local LLM for ambiguous vision state resolution.
-
----
-
-## Recent Build
-
-**ReturnClip** *(Hack Canada 2026)* — Hackathon return-processing prototype: SwiftUI iOS app, Next.js + Gemini AI condition assessment, and React merchant dashboard with Shopify refund integration. Built in 24 hours, cuts 15–30 min flows to ~30 sec.
-
----
-
 ## Connect
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/yourhandle)
-[![Email](https://img.shields.io/badge/Email-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:your@email.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jeff-tian/)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:jeff.tian23@gmail.com)
